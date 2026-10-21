@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://cserobiul.github.io/</loc>
+    <lastmod>2026-10-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://cserobiul.github.io/#about</loc>
+    <lastmod>2026-10-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://cserobiul.github.io/#projects</loc>
+    <lastmod>2026-10-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://cserobiul.github.io/#expertise</loc>
+    <lastmod>2026-10-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://cserobiul.github.io/#experience</loc>
+    <lastmod>2026-10-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://cserobiul.github.io/#contact</loc>
+    <lastmod>2026-10-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <!-- 2026 Projects (13 Deliveries) -->
+  <url><loc>https://cserobiul.github.io/#/projects/ai-powered-ecommerce</loc><priority>0.85</priority></url>
+  <url><loc>https://cserobiul.github.io/#/projects/ems-desktop-application</loc><priority>0.85</priority></url>
+  <url><loc>https://cserobiul.github.io/#/projects/standalone-software-license-server</loc><priority>0.85</priority></url>
+  <url><loc>https://cserobiul.github.io/#/projects/ebook-selling-portal</loc><priority>0.8</priority></url>
+  <url><loc>https://cserobiul.github.io/#/projects/society-management-platform</loc><priority>0.85</priority></url>
+  <url><loc>https://cserobiul.github.io/#/projects/attendance-sync-hub-zkteco</loc><priority>0.8</priority></url>
+  <url><loc>https://cserobiul.github.io/#/projects/facego-vf200-attendance-server</loc><priority>0.8</priority></url>
+  <url><loc>https://cserobiul.github.io/#/projects/payra-payroll</loc><priority>0.8</priority></url>
+  <url><loc>https://cserobiul.github.io/#/projects/inventory-management-software</loc><priority>0.8</priority></url>
+  <url><loc>https://cserobiul.github.io/#/projects/health-and-education-platform</loc><priority>0.8</priority></url>
+  <url><loc>https://cserobiul.github.io/#/projects/real-estate-management-ecosystem</loc><priority>0.8</priority></url>
+  <url><loc>https://cserobiul.github.io/#/projects/international-study-b2b-portal</loc><priority>0.8</priority></url>
+  <url><loc>https://cserobiul.github.io/#/projects/desco-smart-meter-management-application</loc><priority>0.85</priority></url>
+  <!-- 2025 Projects (1 Confirmed) -->
+  <url><loc>https://cserobiul.github.io/#/projects/polytechnic-institute-website</loc><priority>0.8</priority></url>
+  <!-- 2024 Projects (4 Confirmed) -->
+  <url><loc>https://cserobiul.github.io/#/projects/ems-dhaka-medical-college</loc><priority>0.8</priority></url>
+  <url><loc>https://cserobiul.github.io/#/projects/igc-impact-global-consultant</loc><priority>0.8</priority></url>
+  <url><loc>https://cserobiul.github.io/#/projects/ielts-professor</loc><priority>0.85</priority></url>
+  <url><loc>https://cserobiul.github.io/#/projects/scaliup-crm</loc><priority>0.85</priority></url>
+  <!-- 2023 Projects (3 Confirmed) -->
+  <url><loc>https://cserobiul.github.io/#/projects/isp-management-software</loc><priority>0.75</priority></url>
+  <url><loc>https://cserobiul.github.io/#/projects/super-shop-pos</loc><priority>0.75</priority></url>
+  <url><loc>https://cserobiul.github.io/#/projects/ecommerce-platform</loc><priority>0.75</priority></url>
+  <!-- 2022 Projects (3 Confirmed) -->
+  <url><loc>https://cserobiul.github.io/#/projects/dealer-management-system-with-tracking</loc><priority>0.75</priority></url>
+  <url><loc>https://cserobiul.github.io/#/projects/survey-application</loc><priority>0.75</priority></url>
+  <url><loc>https://cserobiul.github.io/#/projects/pos-with-ecommerce-entrepreneur</loc><priority>0.75</priority></url>
+</urlset>
